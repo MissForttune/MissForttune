@@ -1,4 +1,4 @@
-#👋 Olá, Mundo! Eu sou Scarlet!
+👋 Olá, Mundo! Eu sou Scarlet!
 Aspirante programadora, gosto de café, jogos, podcasts, animes e sou muito fã de Bring Me The Horizon! 🤟
 
 ## Bem vindo ao meu perfil GitHub 👋
