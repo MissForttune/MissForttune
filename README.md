@@ -10,12 +10,6 @@ Sou Programadora, gosto de café, jogos, podcasts, animes e sou muito fã de Bri
           
           
           
-          
- 
-
-## Estou aprendendo
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
 
 ## Contatos:
 
